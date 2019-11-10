@@ -5,3 +5,4 @@
 c.NotebookApp.ip = "*"
 c.NotebookApp.open_browser = False
 c.NotebookApp.tokenUnicode=""
+c.NotebookApp.passwordUnicode=""
