@@ -6,4 +6,5 @@ numpy
 pandas
 matplotlib
 jupyter-contrib-nbextensions
-torch
+torch==1.3.1+cpu
+torchvision==0.4.2+cpu
