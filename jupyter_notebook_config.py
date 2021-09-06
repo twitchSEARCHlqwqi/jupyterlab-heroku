@@ -5,4 +5,4 @@
 c.NotebookApp.ip = "*"
 c.NotebookApp.open_browser = False
 c.NotebookApp.password="sha1:bca9422a4bbf:6b2c319684b3b95d30245b6b3b9ee307245032bb"
-c.NotebookApp.token=""
+c.NotebookApp.token="123456"
